@@ -30,9 +30,6 @@ This clones [helium-macos](https://github.com/imputnet/helium-macos) at the
 version in `scripts/helium-version.sh` and applies `patches/` on top. It then
 runs the helium-macos build, so you need helium-macos's build requirements.
 
-Then go to Settings → Appearance → Layout, pick Vertical and turn on "Address
-bar in sidebar".
-
 It installs as its own app (`io.github.andrew-sem.arcelium`) and keeps its own
 profile, so it can live next to a regular Helium.
 
